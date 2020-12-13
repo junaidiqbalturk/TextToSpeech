@@ -1,4 +1,4 @@
-# TextToSpeech
+# Text To Speech
 Python Text to Speech in which Ten Random Jokes can be heard.
 
 # Libraries Used
